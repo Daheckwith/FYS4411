@@ -1,0 +1,9 @@
+#Data
+#Figures
+OLD*PROJECT/
+
+# Ignore pycache folder and python class files
+**/__pycache__/
+*.pyc
+
+

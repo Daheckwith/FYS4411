@@ -1,0 +1,5 @@
+         ThreadNr.             Alpha            Energy     EnergySquared          Variance           BootVar       BlockingVar   AcceptanceRatio        TotalSteps          TimeStep      LearningRate
+                 0             0.488         75.020733         5628.1554       0.045100591                 0     1.1840942e-05        0.98622465           2097152               0.1                 0
+
+
+Time elpased for 2 thread(s): 418.952
