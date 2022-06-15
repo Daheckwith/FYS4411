@@ -1,3 +1,9 @@
+"""
+The file structure is very similar to main.py
+It's made to study how the number of hidden nodes
+affect the results produced by the RBM
+"""
+
 import nqs, gd, hamiltonian as h
 from blocking import block
 # =============================================================================

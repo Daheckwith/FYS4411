@@ -1,3 +1,10 @@
+"""
+The file structure is very similar to main.py
+It's made to study how the two gradient descent schemes
+behave with different configurations, the learning rate and
+the number of Monte-Carlo cycles
+"""
+
 import nqs, gd, hamiltonian as h
 from blocking import block
 # =============================================================================

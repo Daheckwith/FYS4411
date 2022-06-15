@@ -1,4 +1,4 @@
-# Simple Variational Monte Carlo solve for FYS4411
+# Simple Variational Monte Carlo solver for FYS4411
 
 VMC-solver for project 1 of FYS4411 implemented in a class-structure written in C++. Datanalysis and plotting in Python. The article can be found in the subfolder named **Article**.
 

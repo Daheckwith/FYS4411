@@ -5,6 +5,7 @@ from functions import save_fig, save_sub_fig, get_filename
 
 plt.close("all")
 
+# Gradient Descent Analysis
 def gradientDescent():
     NumberParticles = 2; Dimension = 2; NumberHidden = 2
     Dir = "../Data/"
@@ -59,6 +60,7 @@ def gradientDescent():
 # gradientDescent()
 
 
+# Hidden Nodes Analysis
 NumberParticles = 1; Dimension = 2;
 Dir = "../Data/"
 # filename = Dir + f"Data_{NumberParticles}P_{Dimension}D_{NumberHidden}H_timestep05.txt"
